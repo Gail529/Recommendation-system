@@ -4,5 +4,4 @@ Created a recommendation engine that recommends songs based on the Current mood 
 - Scraped song lyrics from the web using Beautiful Soup.
 - Calculated emotion scores for each song in the dataset using the NRC Emotion lexicon.
 - Generated song recommendations using Cosine Similarity.
-- Created a simple Streamlit Application to test out the engine
- 
+- Created a simple Streamlit Application to test out the engine.
